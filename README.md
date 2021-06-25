@@ -1,2 +1,2 @@
 # config
-Configuration for multiple application and shell
+⚙️ Configuration for multiple application and shell
