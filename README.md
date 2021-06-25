@@ -11,4 +11,5 @@ You might need to change something like `USER`, `HOSTNAME` and etc.
 
 ### How can I contribute?
 If you want to contribute, fork this repo and add your files.\
+Then, submit a pull request.\
 I will review it when I'm free.
